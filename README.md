@@ -13,7 +13,7 @@ JORDI SEBASTIÁN VALENCIA CARTAGENA
 ## Cómo utilizar
 
 -   Clonar el repositorio con **git clone**
--   Copiar **.env.example** archivo a **.env** y editar las credenciales de la base de datos allí
+-   Copiar **.env.example** renombrar a **.env** y editar las credenciales de la base de datos allí
 -   Correr **composer install**
 -   Correr **php artisan key:generate**
 -   Correr **php artisan migrate --seed**
