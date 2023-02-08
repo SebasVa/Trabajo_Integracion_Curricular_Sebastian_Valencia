@@ -24,3 +24,5 @@ JORDI SEBASTIÁN VALENCIA CARTAGENA
 ## Link al manual de usuario
 
 -   https://www.youtube.com/watch?v=TW28cYbxkSc
+
+-   El sistema web se encuentra subido en un servidor privado por lo que se puede ingresar por medio de esta dirección: http://34.246.221.132/ 
