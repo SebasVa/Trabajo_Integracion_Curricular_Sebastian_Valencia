@@ -17,7 +17,7 @@ JORDI SEBASTIÁN VALENCIA CARTAGENA
 -   Correr **composer install**
 -   Correr **php artisan key:generate**
 -   Correr **php artisan migrate --seed**
--   Puede iniciar sesión en el panel de administración yendo a `/login` e iniciar sesión con credenciales **admin@admin.com** - **password**
+-   Puede iniciar sesión en el panel de administración yendo a `/login` e iniciar sesión con estas credenciales: **admin@admin.com** - **password**
 
 ---
 
